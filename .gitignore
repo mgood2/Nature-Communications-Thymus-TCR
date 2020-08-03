@@ -1,0 +1,10 @@
+.Rproj.user
+.Rhistory
+.RData
+.Ruserdata
+
+/tests/testthat/*.pdf
+/tests/testthat/*.csv
+/tests/testthat/*.txt
+doc
+Meta
